@@ -46,7 +46,7 @@ pip install json
 pip install glob
 ```
 # *3. Usage*
-1. *[Optional*] Test the installation of yolov5 environment, please run "test_installation".
+1. *[Optional*] Test the installation of yolov5 environment, please run "test_installation.py".
 2. *[Optional*] Put images in folder named **"voc_dataset"**, subfolders named **"classes_index"**.	
 3. Run **"preprocess.py"** to rename and resize the images.
 4. Run **labelImg** to annotate all the images.
