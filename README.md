@@ -20,9 +20,9 @@ After download this repository, yolov5.pt have been download in 'yolov5' so you 
 ## 1.2. WorkSpace Introduction
 *The directory also includes two parts, which this project calls the workspace.*
 
-The first part consists of three folders, named datasets, voc_dataset and yolo_dataset.
-datasets: the final storage location of the custom dataset
-voc_dataset: the storage location of pascal voc dataset
+The first part consists of three folders, named datasets, voc_dataset and yolo_dataset.<br>
+datasets: the final storage location of the custom dataset<br>
+voc_dataset: the storage location of pascal voc dataset<br>
 yolo_dataset: the storage location of yolo dataset [temporary]
 
 The second part consists of four scrpit, named test_installation.py, preprocess.py, voc_to_yolo.py and data_split.py. Full comments are in every python script.
