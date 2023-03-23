@@ -1,5 +1,5 @@
 中文教程：<br>
-[BLOG] https://www.steamforfun.cn/?p=409 <br>
+[BLOG] https://www.steamforfun.cn/?p=413 <br>
 [CSDN] http://t.csdn.cn/8ZSka <br>
 
 @[TOC](Yolov5 Object Detection)
