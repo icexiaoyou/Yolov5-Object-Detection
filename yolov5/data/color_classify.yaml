@@ -1,0 +1,6 @@
+train: ../dataset/color_classify/train/images
+val: ../dataset/color_classify/val/images
+test: ../dataset/color_classify/test/images
+
+nc: 2
+names: ["b", "w"]
