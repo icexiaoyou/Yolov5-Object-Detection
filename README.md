@@ -1,3 +1,7 @@
+中文教程：<br>
+[BLOG] https://www.steamforfun.cn/?p=409 <br>
+[CSDN] http://t.csdn.cn/8ZSka <br>
+
 @[TOC](Yolov5 Object Detection)
 - [*1. Description*](#-1-description-)
   * [1.1. Yolov5 Offline Full Folder](#21-yolov5-offline-full-folder)
