@@ -1,0 +1,13 @@
+﻿__pycache__/
+*.py[cod]
+runs/
+prepared_voc_dataset/
+yolo_splited_dataset/
+datasets/*/
+!datasets/color_classify/
+!datasets/color_classify/**
+yolo_dataset/images/
+yolo_dataset/labels/
+*.pt
+*.onnx
+*.engine

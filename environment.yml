@@ -1,0 +1,14 @@
+﻿name: yolov5-object-detection
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pytorch
+  - torchvision
+  - pip
+  - pip:
+      - ultralytics>=8.3
+      - opencv-python>=4.9
+      - Pillow>=10.0
+      - PyYAML>=6.0
